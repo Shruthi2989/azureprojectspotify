@@ -1,0 +1,9 @@
+{
+	"name": "dfactoryazureprojectriyu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8efabff-9658-41f1-b994-bf667e0949e7",
+		"tenantId": "eaff0055-4526-4901-b20c-d4e01780b451"
+	}
+}
