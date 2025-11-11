@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "AzureSQLToLAke",
+				"name": "AzureSQLToLake",
 				"type": "Copy",
 				"dependsOn": [
 					{
